@@ -1,7 +1,7 @@
-package io.javabrains.coronavirus_tracker.services;
+package com.ke.coronavirus_tracker.services;
 
 
-import io.javabrains.coronavirus_tracker.models.LocationStats;
+import com.ke.coronavirus_tracker.models.LocationStats;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 import org.springframework.scheduling.annotation.Scheduled;

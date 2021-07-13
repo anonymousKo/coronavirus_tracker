@@ -1,7 +1,7 @@
-package io.javabrains.coronavirus_tracker;
+package com.ke.coronavirus_tracker.controller;
 
-import io.javabrains.coronavirus_tracker.models.LocationStats;
-import io.javabrains.coronavirus_tracker.services.CoronaVirusDataService;
+import com.ke.coronavirus_tracker.models.LocationStats;
+import com.ke.coronavirus_tracker.services.CoronaVirusDataService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

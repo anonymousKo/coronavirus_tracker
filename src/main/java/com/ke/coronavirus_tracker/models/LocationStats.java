@@ -1,4 +1,4 @@
-package io.javabrains.coronavirus_tracker.models;
+package com.ke.coronavirus_tracker.models;
 
 import java.io.StringReader;
 
